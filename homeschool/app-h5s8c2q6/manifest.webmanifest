@@ -1,0 +1,28 @@
+{
+ "name": "Homeschool Planner \u2013 TrueHaven Studios",
+ "short_name": "Homeschool",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F8F4F0",
+ "theme_color": "#F8F4F0",
+ "description": "A homeschool planner app: lessons that schedule themselves and roll forward, attendance and hours that count themselves, kid view, report cards and transcripts for multiple children.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
