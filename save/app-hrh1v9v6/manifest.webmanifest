@@ -1,0 +1,28 @@
+{
+ "name": "Savings Challenge \u2013 TrueHaven Studios",
+ "short_name": "Savings",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F8F4F0",
+ "theme_color": "#F8F4F0",
+ "description": "A savings challenge app: 100 envelopes, 52 week and your own goal in any currency. Pick-for-me envelopes with a weekly cap, a catch-up plan when you miss a week, planned vs actual charts.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

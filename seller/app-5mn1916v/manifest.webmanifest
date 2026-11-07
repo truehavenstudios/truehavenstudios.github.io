@@ -1,0 +1,28 @@
+{
+ "name": "Seller Profit \u2013 TrueHaven Studios",
+ "short_name": "Seller Profit",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F8F4F0",
+ "theme_color": "#F8F4F0",
+ "description": "A profit app for Etsy sellers: drop in your monthly statement CSV and see real net profit, fees, ads and costs per month and per listing, in charts. Works offline, no account.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
